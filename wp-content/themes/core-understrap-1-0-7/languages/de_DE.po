@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Core UnderStrap Child\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-28 11:37+0000\n"
+"PO-Revision-Date: 2016-12-28 11:37+0000\n"
+"Last-Translator: Holger Koenemann <office@holgerkoenemann.de>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: footer.php:46
+msgid " by "
+msgstr ""
+
+#: footer.php:47 node_modules/understrap/footer.php:27
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:48
+#, php-format
+msgid "Proudly powered by %s </br>"
+msgstr ""
+
+#: footer.php:50
+#, php-format
+msgid "%1$s by %2$s"
+msgstr ""
+
+#: footer.php:52 node_modules/understrap/footer.php:33
+#, php-format
+msgid "Version: %1$s"
+msgstr ""
+
+#: functions.php:70 node_modules/understrap/inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: functions.php:75 node_modules/understrap/inc/template-tags.php:34
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#. used between list items, there is a space after the comma
+#: functions.php:84 functions.php:90
+#: node_modules/understrap/inc/template-tags.php:51
+#: node_modules/understrap/inc/template-tags.php:57
+msgid ", "
+msgstr ""
+
+#: functions.php:86
+#, php-format
+msgid "Category: %1$s"
+msgstr ""
+
+#: functions.php:92 node_modules/understrap/inc/template-tags.php:59
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: functions.php:98 node_modules/understrap/inc/template-tags.php:65
+msgid "Leave a comment"
+msgstr ""
+
+#: functions.php:98 node_modules/understrap/inc/template-tags.php:65
+msgid "1 Comment"
+msgstr ""
+
+#: functions.php:98 node_modules/understrap/inc/template-tags.php:65
+msgid "% Comments"
+msgstr ""
+
+#. %s: Name of current post
+#. %s: Name of current post
+#: functions.php:105 node_modules/understrap/inc/template-tags.php:72
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: functions.php:127 node_modules/understrap/inc/template-tags.php:144
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:132
+msgctxt "Previous post link"
+msgid "<i class=\"fa fa-angle-left\"></i>&nbsp;%title"
+msgstr ""
+
+#: functions.php:135
+msgctxt "Next post link"
+msgid "%title&nbsp;<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: functions.php:152 node_modules/understrap/inc/setup.php:123
+msgid "Read More..."
+msgstr ""
+
+#: functions.php:163
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:173 node_modules/understrap/inc/widgets.php:44
+msgid "Hero Static"
+msgstr ""
+
+#: functions.php:183
+msgid "Off Canvas"
+msgstr ""
+
+#: functions.php:193
+msgid "Footer Left"
+msgstr ""
+
+#: functions.php:203
+msgid "Footer Right"
+msgstr ""
+
+#: functions.php:242
+msgid "<h6>About the author</h6> "
+msgstr ""
+
+#: functions.php:249
+msgid "<span>More from "
+msgstr ""
+
+#: functions.php:266
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:33 node_modules/understrap/header.php:34
+msgid "Skip to content"
+msgstr ""
+
+#: loop-templates/content-card.php:43 loop-templates/content-page.php:49
+#: loop-templates/content-single.php:55
+#: loop-templates/content-verticalpage.php:28 loop-templates/content.php:51
+#: node_modules/understrap/loop-templates/content-card.php:43
+#: node_modules/understrap/loop-templates/content-page.php:25
+#: node_modules/understrap/loop-templates/content-single.php:31
+#: node_modules/understrap/loop-templates/content-verticalpage.php:28
+#: node_modules/understrap/loop-templates/content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: loop-templates/content-none.php:15
+#: node_modules/understrap/loop-templates/content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: loop-templates/content-none.php:23
+#: node_modules/understrap/loop-templates/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: loop-templates/content-none.php:28
+#: node_modules/understrap/loop-templates/content-none.php:28
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: loop-templates/content-none.php:34
+#: node_modules/understrap/loop-templates/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: loop-templates/content-verticalpage.php:37
+#: node_modules/understrap/loop-templates/content-page.php:34
+#: node_modules/understrap/loop-templates/content-verticalpage.php:37
+msgid "Edit"
+msgstr ""
+
+#: node_modules/understrap/404.php:24
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: node_modules/understrap/404.php:31
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: node_modules/understrap/404.php:42
+msgid "Most Used Categories"
+msgstr ""
+
+#. %1$s: smiley
+#: node_modules/understrap/404.php:62
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: node_modules/understrap/author.php:34
+msgid "About:"
+msgstr ""
+
+#: node_modules/understrap/author.php:42
+#: node_modules/understrap/inc/custom-comments.php:30
+msgid "Website"
+msgstr ""
+
+#: node_modules/understrap/author.php:49
+msgid "Profile"
+msgstr ""
+
+#: node_modules/understrap/author.php:54
+msgid "Posts by"
+msgstr ""
+
+#: node_modules/understrap/author.php:68
+msgid "in"
+msgstr ""
+
+#: node_modules/understrap/comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: node_modules/understrap/comments.php:36
+#: node_modules/understrap/comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#: node_modules/understrap/comments.php:38
+#: node_modules/understrap/comments.php:61
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: node_modules/understrap/comments.php:42
+#: node_modules/understrap/comments.php:65
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: node_modules/understrap/comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: node_modules/understrap/footer.php:28
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: node_modules/understrap/footer.php:31
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: node_modules/understrap/search.php:29
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: node_modules/understrap/searchform.php:10
+#: node_modules/understrap/searchform.php:16
+msgid "Search"
+msgstr ""
+
+#: node_modules/understrap/searchform.php:13
+msgid "Search &hellip;"
+msgstr ""
+
+#: node_modules/understrap/inc/custom-comments.php:24
+msgid "Name"
+msgstr ""
+
+#: node_modules/understrap/inc/custom-comments.php:27
+msgid "Email"
+msgstr ""
+
+#: node_modules/understrap/inc/custom-comments.php:49
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:37
+msgid "Slider Settings"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:46
+msgid "Number of slides displaying at once"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:58
+msgid "Slider Time (in ms)"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:70
+msgid "Loop Slider Content"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:82
+msgid "Theme Layout Settings"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:84
+msgid "Container width and sidebar defaults"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:99
+msgid "Container Width"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:100
+msgid "Choose between Bootstrap's container and container-fluid"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:105
+msgid "Fixed width container"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:106
+msgid "Full width container"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:123
+msgid "Sidebar Positioning"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:124
+msgid "Set sidebar's position. Can either be: right, left, both or none"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:130
+msgid "Right sidebar"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:131
+msgid "Left sidebar"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:132
+msgid "Left & Right sidebars"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:133
+msgid "No sidebar"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:151
+msgid "Posts Index Style"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:152
+msgid "Choose how to display latest posts"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:157
+msgid "Default"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:158
+msgid "Masonry"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:159
+msgid "Grid"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:188
+msgid "Grid Post Columns"
+msgstr ""
+
+#: node_modules/understrap/inc/customizer.php:189
+msgid "Choose how many columns to use in grid posts"
+msgstr ""
+
+#: node_modules/understrap/inc/setup.php:52
+msgid "Primary Menu"
+msgstr ""
+
+#: node_modules/understrap/inc/template-tags.php:18
+#, php-format
+msgid " Edited %4$s"
+msgstr ""
+
+#: node_modules/understrap/inc/template-tags.php:53
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: node_modules/understrap/inc/template-tags.php:149
+msgctxt "Previous post link"
+msgid ""
+"<i class=\"fa fa-angle-left\" aria-hidden=\"true\"></i>\n"
+"&nbsp;%title"
+msgstr ""
+
+#: node_modules/understrap/inc/template-tags.php:153
+msgctxt "Next post link"
+msgid ""
+"%title&nbsp;<i class=\"fa fa-angle-right\" aria-hidden=\"true\"></i>\n"
+"</span>"
+msgstr ""
+
+#: node_modules/understrap/inc/widgets.php:14
+msgid "Right Sidebar"
+msgstr ""
+
+#: node_modules/understrap/inc/widgets.php:24
+msgid "Left Sidebar"
+msgstr ""
+
+#: node_modules/understrap/inc/widgets.php:34
+msgid "Hero Slider"
+msgstr ""
+
+#: node_modules/understrap/inc/widgets.php:54
+msgid "Footer Full"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Page Template"
+msgstr ""
+
+#. Name of the template
+msgid "Left and Right Sidebar Layout"
+msgstr ""
+
+#. Name of the template
+msgid "Empty Page Template"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Left Sidebar Layout"
+msgstr ""
+
+#. Name of the template
+msgid "Vertical One Page"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart-empty.php:28
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart-empty.php:36
+msgid "Return To Shop"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart.php:36
+#: node_modules/understrap/woocommerce/cart/cart.php:79
+#: node_modules/understrap/woocommerce/checkout/form-pay.php:29
+msgid "Product"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart.php:37
+#: node_modules/understrap/woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart.php:38
+#: node_modules/understrap/woocommerce/cart/cart.php:103
+msgid "Quantity"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart.php:39
+#: node_modules/understrap/woocommerce/cart/cart.php:120
+#: node_modules/understrap/woocommerce/myaccount/my-orders.php:16
+msgid "Total"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart.php:60
+#: node_modules/understrap/woocommerce/cart/mini-cart.php:49
+msgid "Remove this item"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart.php:138
+msgid "Coupon:"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart.php:138
+#: node_modules/understrap/woocommerce/checkout/form-coupon.php:36
+msgid "Coupon code"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart.php:138
+#: node_modules/understrap/woocommerce/checkout/form-coupon.php:40
+msgid "Apply Coupon"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/cart.php:144
+msgid "Update Cart"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/mini-cart.php:72
+msgid "No products in the cart."
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/mini-cart.php:80
+msgid "Subtotal"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/mini-cart.php:85
+msgid "View Cart"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/mini-cart.php:86
+msgid "Checkout"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/checkout/form-coupon.php:28
+msgid "Have a coupon?"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/checkout/form-coupon.php:28
+msgid "Click here to enter your code"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/checkout/form-pay.php:30
+msgid "Qty"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/checkout/form-pay.php:31
+msgid "Totals"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/checkout/form-pay.php:79
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: node_modules/understrap/woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: node_modules/understrap/woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: node_modules/understrap/woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: node_modules/understrap/woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/global/form-login.php:35
+#: node_modules/understrap/woocommerce/myaccount/form-lost-password.php:30
+msgid "Username or email"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/global/form-login.php:39
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:48
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:98
+msgid "Password"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/global/form-login.php:48
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:37
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:56
+msgid "Login"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/global/form-login.php:51
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:58
+msgid "Remember me"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/global/form-login.php:55
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:62
+msgid "Lost your password?"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/global/quantity-input.php:24
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/downloads.php:59
+msgid "&infin;"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/downloads.php:67
+msgid "Never"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/downloads.php:75
+msgid "Download"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/downloads.php:98
+#: node_modules/understrap/woocommerce/myaccount/orders.php:119
+msgid "Go Shop"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/downloads.php:100
+msgid "No downloads available yet."
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-account.php:30
+msgid "First name"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-account.php:34
+msgid "Last name"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-account.php:40
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:91
+msgid "Email address"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-account.php:45
+msgid "Password Change"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-account.php:48
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-account.php:52
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-account.php:56
+msgid "Confirm New Password"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-account.php:66
+msgid "Save changes"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-address.php:23
+msgid "Billing Address"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-address.php:23
+msgid "Shipping Address"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-edit-address.php:46
+msgid "Save Address"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:75
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:112
+msgid "Register"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:84
+msgid "Username"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-login.php:105
+msgid "Anti-spam"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-lost-password.php:27
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-lost-password.php:40
+msgid "Reset Password"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-reset-password.php:27
+msgid "Enter a new password below."
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-reset-password.php:30
+msgid "New password"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-reset-password.php:34
+msgid "Re-enter new password"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/form-reset-password.php:47
+msgid "Save"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/my-orders.php:14
+msgid "Date"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/my-orders.php:30
+msgid "Recent Orders"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/my-orders.php:55
+#: node_modules/understrap/woocommerce/myaccount/orders.php:51
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/my-orders.php:65
+#: node_modules/understrap/woocommerce/myaccount/orders.php:61
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: node_modules/understrap/woocommerce/myaccount/my-orders.php:72
+#: node_modules/understrap/woocommerce/myaccount/orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/my-orders.php:76
+#: node_modules/understrap/woocommerce/myaccount/orders.php:72
+msgid "View"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/my-orders.php:80
+#: node_modules/understrap/woocommerce/myaccount/orders.php:76
+msgid "Cancel"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/orders.php:107
+msgid "Previous"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/orders.php:111
+msgid "Next"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/myaccount/orders.php:121
+msgid "No order has been made yet."
+msgstr ""
+
+#: node_modules/understrap/woocommerce/single-product/rating.php:36
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/single-product/rating.php:38
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/single-product/rating.php:39
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: node_modules/understrap/woocommerce/single-product/rating.php:42
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: node_modules/understrap/woocommerce/single-product/review-rating.php:28
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: node_modules/understrap/woocommerce/single-product/review-rating.php:29
+msgid "out of 5"
+msgstr ""
+
+#. Name of the theme
+msgid "Core UnderStrap Child"
+msgstr ""
+
+#. Description of the theme
+msgid "Core UnderStrap Child Theme"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.understrap.com"
+msgstr ""
+
+#. Author of the theme
+msgid "Holger Koenemann"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.holgerkoenemann.de"
+msgstr ""
