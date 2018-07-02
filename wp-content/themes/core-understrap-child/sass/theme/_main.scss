@@ -1,0 +1,50 @@
+// NAVBAR
+.wrapper-variable-lg {
+    // padding-top: 8vh; // this is the standard setting
+    // padding-bottom: 8vh;
+    padding-top: 0vh;
+    padding-bottom: 0vh;
+}
+
+// CAROUSEL
+.carousel {
+  // height: 400px;
+  height: 66vh;
+}
+
+
+.carousel-item img {
+    // vertical-align: bottom !important; // does nothing. Why?
+    margin-top: -120px; // this is just aligning a FPO
+}
+
+@media (max-width: 543px) {
+  .carousel {
+    height: 240px;
+  }
+  .carousel-item img {
+      margin-top: -22px
+  }
+}
+
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  top: 3rem;
+  z-index: 10;
+  color: #fcc;
+  h1 {
+    color: #fcc;
+    font-family: cursive;
+  }
+}
+
+
+
+// ALBUM
+.album {
+  position: relative;
+}
+.pb-5, .py-5 {
+    padding-bottom: 6rem!important;
+}
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
