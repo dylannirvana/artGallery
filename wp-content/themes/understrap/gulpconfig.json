@@ -1,6 +1,6 @@
 {
   "browserSyncOptions" : {
-    "proxy": "localhost/wordpress/",
+    "proxy": "localhost:8888/artgallery",
     "notify": false
   },
   "browserSyncWatchFiles" : [
