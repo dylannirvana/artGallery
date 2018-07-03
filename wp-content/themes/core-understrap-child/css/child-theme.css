@@ -9687,6 +9687,18 @@ a.up-link:hover {
     color: #fcc;
     font-family: cursive; }
 
+#bio .card {
+  padding-left: 16%;
+  padding-right: 16%; }
+
+@media (max-width: 543px) {
+  #bio .card-body {
+    padding-left: 5%;
+    padding-right: 5%; } }
+
+#bio .card-text {
+  font-size: 1.4rem; }
+
 .album {
   position: relative; }
 

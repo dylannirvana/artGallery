@@ -14,7 +14,10 @@ get_header(); ?>
   <!-- Photo -->
   <?php get_template_part( "custom-templates/carousel") ?>
 
-  <!-- Photo -->
+  <!-- Bio -->
+  <?php get_template_part( "custom-templates/card") ?>
+
+  <!-- Album -->
   <?php get_template_part( "custom-templates/album") ?>
 
   <!-- END scenes  -->

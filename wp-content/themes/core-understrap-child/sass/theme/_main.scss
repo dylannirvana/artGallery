@@ -13,6 +13,12 @@
 }
 
 
+
+// Variable for carousel
+// $carousel-transition:           transform .6s ease !default; // thats what it is
+$carousel-transition:           transform .6s ease, opacity .5s ease-out !default;
+
+
 .carousel-item img {
     // vertical-align: bottom !important; // does nothing. Why?
     margin-top: -120px; // this is just aligning a FPO
@@ -38,7 +44,22 @@
   }
 }
 
-
+// CARD
+#bio {
+  .card {
+    padding-left: 16%;
+    padding-right: 16%;
+  }
+  @media (max-width: 543px) {
+    .card-body {
+      padding-left: 5%;
+      padding-right: 5%;
+    }
+  }
+  .card-text {
+    font-size: 1.4rem;
+  }
+}
 
 // ALBUM
 .album {
